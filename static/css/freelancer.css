@@ -1,7 +1,9 @@
 body {
   font-family: 'Lato';
 }
-
+#contact, #portfolio{
+    background-color: #63DEDE;
+}
 h1,
 h2,
 h3,
@@ -212,7 +214,7 @@ header.masthead h2 {
   -moz-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(24, 188, 156, 0.9);
+  background-color: #63DEDE;
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
